@@ -5,14 +5,20 @@
         .container {
           display: flex;
           width: 100%;
-          height: 300px;
-          background-color: black;
+          height: 500px;
+          background-color: #191B31;
           color: white;
         }
-      </style>
 
+        .heading {
+          margin-left: auto;
+          margin-right: auto;
+          height: max-content;
+          font-famil
+        }
+      </style>
       <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
+        <span class="heading">Hi there, my name is Leelakrishna Thiyagarajan</span>
       </div>
     </div>
   </foreignObject>
