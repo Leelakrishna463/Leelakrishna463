@@ -3,6 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+There!;I+am+Leelakrishna+Thiyagarajan" alt="Typing SVG" /></a>
 </h1>
 
+<!-- Job Title and Location  -->
 <h4 align="center"> 
   <samp style="color: #fafbfc;">
     「 Software Engineer from <b>Bangalore, India</b> 」
@@ -11,6 +12,8 @@
   </samp>
 </h4>
 
+
+<!-- Platform Links  -->
 <p align="center">
 <a href="https://the-spirit-wing.info" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2b3137?style=for-the-badge&logo=radar&logoColor=white" alt="leelakrishna463" />
@@ -20,8 +23,8 @@
  </a>
 <br />
 
-<!-- About Section -->
 
+<!-- About Section -->
 # About me
 
 <p>
@@ -37,6 +40,7 @@
 <br/>
 <br/>
 
+<!-- Technologies and Skills  -->
 <h2>What I work with</h2>
 
 <h4>Backend & Frameworks</h4>
@@ -79,20 +83,26 @@
 
 <br/>
 
+
+<!-- Github Statistics -->
 ## STATS
 
+
+<!-- Git Streak -->
 <p align="center">
   <a href="https://github.com/leelakrishna463">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Leelakrishna463&theme=github-dark&hide_border=true" alt="Lee's GitHub Streak" /></a>
   </a>
 </p>
 
+<!-- Github commit stats -->
 <p align="center">
   <a href="https://github.com/leelakrishna463">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leelakrishna463&theme=github_dark" alt="Lee's GitHub Contribution"/>
   </a>
 </p>
 
+<!-- Github stats & Top Languages -->
 <a>
     <a href="https://github.com/leelakrishna463">
       <img alt="Lee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leelakrishna463&show_icons=true&count_private=true&theme=blue-green&custom_title=Lee%27s%20Github%20Stats" height="192px" width="49.5%"/>
@@ -103,13 +113,12 @@
   <br/>
 </a>
 
-
+<!-- Commit graph -->
 ![Lee's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leelakrishna463&&custom_title=Lee&theme=github-compact)
 
+<br>
 
-
-## Checkout My Repositories
-
-<p align="left">
-  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<!-- Repository links -->
+<p align="center">
+  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Check%20My%20Repositories-ffffff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
