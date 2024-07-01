@@ -27,7 +27,7 @@
 <p>
  <img align="right" width="350" src="./assets/programmer.gif" alt="Coding gif" />
 
- ⌨ &emsp; I write high level 1's & 0's and always eager to expand my skill matrix <br/><br/>
+ ⌨ &emsp; I write high level 1's & 0's and always looking for learning new things <br/><br/>
  ⊹ &emsp; Currently Working in Decathlon UK as a Software Engineer<br/><br/>
  ✉ &emsp; Reach me anytime: leelakrishnathiyagarajan@gmail.com<br/><br/>
 
