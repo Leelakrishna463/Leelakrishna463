@@ -25,11 +25,11 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: leelakrishnathiyagarajan@gmail.com<br/><br/>
+ <img align="right" width="350" src="./assets/programmer.gif" alt="Coding gif" />
+
+ ⌨ &emsp; I write high level 1's & 0's and always eager to expand my skill matrix <br/><br/>
+ ⊹ &emsp; Currently Working in Decathlon UK <br/><br/>
+ ✉ &emsp; Reach me anytime: leelakrishnathiyagarajan@gmail.com<br/><br/>
 
 </p>
 
@@ -39,7 +39,7 @@
 
 <h2>What I work with</h2>
 
-<h5>Backend & Frameworks</h5>
+<h4>Backend & Frameworks</h4>
 <p>
   <img style="display:inline" alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black" />
   <img alt="Django" src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=black" />
@@ -49,7 +49,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-ffffff?style=flat-square&logo=flask&logoColor=black" />
 </p>
 
-<h5>Frontend & Frameworks</h5>
+<h4>Frontend & Frameworks</h4>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=black" /> 
@@ -61,7 +61,7 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-ffffff?style=flat-square&logo=antdesign&logoColor=black" />
 </p>
 
-<h5>CI/CD</h5>
+<h4>CI/CD</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=black" />
@@ -69,7 +69,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-ffffff?style=flat-square&logo=google-cloud&logoColor=black" />
 </p>
 
-<h5>Database & Caching</h5>
+<h4>Database & Caching</h4>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-white?style=flat-square&logo=postgresql&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=black" />
@@ -78,14 +78,6 @@
 </p>
 
 <br/>
-
-## Checkout My Repositories
-
-<p align="left">
-  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<hr/>
 
 ## STATS
 
@@ -101,14 +93,23 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/leelakrishna463"><img alt="Lee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leelakrishna463&show_icons=true&count_private=true&theme=blue-green&custom_title=Lee%27s%20Github%20Stats" height="192px" width="49.5%"/>
-</a>
-
-<a href="https://github.com/leelakrishna463"><img alt="Lee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leelakrishna463&langs_count=8&layout=compact&theme=blue-green&icon_color=F8D866" height="192px" width="49.5%"/>
-</a>
+<a>
+    <a href="https://github.com/leelakrishna463">
+      <img alt="Lee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leelakrishna463&show_icons=true&count_private=true&theme=blue-green&custom_title=Lee%27s%20Github%20Stats" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/leelakrishna463">
+      <img alt="Lee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leelakrishna463&langs_count=8&layout=compact&theme=blue-green&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
   <br/>
 </a>
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=leelakrishna463&custom_title=Lee&theme=github-compact">
-</a>
+
+![Lee's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leelakrishna463&&custom_title=Lee&theme=github-compact)
+
+
+
+## Checkout My Repositories
+
+<p align="left">
+  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
