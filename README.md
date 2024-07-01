@@ -85,7 +85,7 @@
 
 
 <!-- Github Statistics -->
-## STATS
+## Statistics
 
 
 <!-- Git Streak -->
