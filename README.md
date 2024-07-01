@@ -41,9 +41,9 @@
 <br/>
 <br/>
 
-<center><h2>What I work with</h2><Center>
+<h2>What I work with</h2>
 
-<center><h5>Backend & Frameworks</h5></center>
+<h5>Backend & Frameworks</h5>
 <p>
   <img style="display:inline" alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black" />
   <img alt="Django" src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=black" />
@@ -53,32 +53,35 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-ffffff?style=flat-square&logo=flask&logoColor=black" />
 </p>
 
-<center><h5>Frontend & Frameworks</h5>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black" />
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=black" /> 
-<img alt="React" src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black" />
-<img alt="Next.js" src="https://img.shields.io/badge/NextJS-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=black" />
-<img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-ffffff?style=flat-square&logo=framer&logoColor=black" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js&logoColor=black" />
-<img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-ffffff?style=flat-square&logo=antdesign&logoColor=black" />
-</center>
+<h5>Frontend & Frameworks</h5>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=black" /> 
+  <img alt="React" src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/NextJS-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=black" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-ffffff?style=flat-square&logo=framer&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js&logoColor=black" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-ffffff?style=flat-square&logo=antdesign&logoColor=black" />
+</p>
 
-<center>
+
 <h5>CI/CD</h5>
-<img alt="Git" src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=black" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=black" />
-<img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-ffffff?style=flat-square&logo=github-actions&logoColor=black" />
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-ffffff?style=flat-square&logo=google-cloud&logoColor=black" />
-</center>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=black" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-ffffff?style=flat-square&logo=github-actions&logoColor=black" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-ffffff?style=flat-square&logo=google-cloud&logoColor=black" />
+</p>
 
-<center>
+
 <h5>Database & Caching</h5>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-white?style=flat-square&logo=postgresql&logoColor=black" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=black" />
-<img alt="Firestore" src="https://img.shields.io/badge/Firestore-white?style=flat-square&logo=firebase&logoColor=black" />
-<img alt="Redis" src="https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis&logoColor=black" />
-</center>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-white?style=flat-square&logo=postgresql&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=black" />
+  <img alt="Firestore" src="https://img.shields.io/badge/Firestore-white?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis&logoColor=black" />
+</p>
 
 <br/>
 
