@@ -22,13 +22,6 @@
  <a href="https://linkedin.com/in/leelakrishna-thiyagarajan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=for-the-badge&logo=linkedin&logoColor=white" alt="leelakrishna463"/>
  </a>
- <a href="https://instagram.com/_leelakrishna463" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-2b3137?style=for-the-badge&logo=instagram&logoColor=white" alt="leelakrishna463" />
- </a> 
- <a href="https://facebook.com/leelakrishna463.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-2b3137?&style=for-the-badge&logo=facebook&logoColor=white" alt="leelakrishna463"  />
-  </a> 
-</p>
 <br />
 
 <!-- About Section -->
