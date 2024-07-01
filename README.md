@@ -44,12 +44,12 @@
 <center><h2>What I work with</h2><Center>
 
 <center><h5>Backend & Frameworks</h5>
-<img style="display:inline" alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black" />
-<img alt="Django" src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=black" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=black" />
-<img alt="Airflow" src="https://img.shields.io/badge/Airflow-ffffff?style=flat-square&logo=apache-airflow&logoColor=black" />
-<img alt="Kafka" src="https://img.shields.io/badge/Kafka-ffffff?style=flat-square&logo=apache-kafka&logoColor=black" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-ffffff?style=flat-square&logo=flask&logoColor=black" />
+  <img style="display:inline" alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=black" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=black" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-ffffff?style=flat-square&logo=apache-airflow&logoColor=black" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-ffffff?style=flat-square&logo=apache-kafka&logoColor=black" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-ffffff?style=flat-square&logo=flask&logoColor=black" />
 </center>
 
 <center><h5>Frontend & Frameworks</h5>
