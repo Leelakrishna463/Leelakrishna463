@@ -1,7 +1,3 @@
-<!-- <a href="https://komarev.com/ghpvc/?username=leelakrishna463">
-  <img align="right" src="https://komarev.com/ghpvc/?username=leelakrishna463&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a> -->
-
 <!-- Intro  -->
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+There!;I+am+Leelakrishna+Thiyagarajan" alt="Typing SVG" /></a>
@@ -65,7 +61,6 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-ffffff?style=flat-square&logo=antdesign&logoColor=black" />
 </p>
 
-
 <h5>CI/CD</h5>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=black" />
@@ -73,7 +68,6 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-ffffff?style=flat-square&logo=github-actions&logoColor=black" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-ffffff?style=flat-square&logo=google-cloud&logoColor=black" />
 </p>
-
 
 <h5>Database & Caching</h5>
 <p>
@@ -85,33 +79,36 @@
 
 <br/>
 
-## Checkout My Repository
+## Checkout My Repositories
+
 <p align="left">
   <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
 <hr/>
-<br/>
 
 ## STATS
 
 <p align="center">
   <a href="https://github.com/leelakrishna463">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelakrishna463&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Leelakrishna463&theme=github-dark&hide_border=true" alt="Lee's GitHub Streak" /></a>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/leelakrishna463">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leelakrishna463&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leelakrishna463&theme=github_dark" alt="Lee's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/leelakrishna463"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leelakrishna463&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/leelakrishna463"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leelakrishna463&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/leelakrishna463"><img alt="Lee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leelakrishna463&show_icons=true&count_private=true&theme=blue-green&custom_title=Lee%27s%20Github%20Stats" height="192px" width="49.5%"/>
+</a>
+
+<a href="https://github.com/leelakrishna463"><img alt="Lee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leelakrishna463&langs_count=8&layout=compact&theme=blue-green&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
   <br/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leelakrishna463&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=leelakrishna463&custom_title=Lee&theme=github-compact">
+</a>
