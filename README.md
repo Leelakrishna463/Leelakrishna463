@@ -120,5 +120,5 @@
 
 <!-- Repository links -->
 <p align="center">
-  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Check%20My%20Repositories-ffffff?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/leelakrishna463?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Check%20My%20Works-ffffff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
