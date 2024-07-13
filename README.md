@@ -21,6 +21,9 @@
  <a href="https://linkedin.com/in/leelakrishna-thiyagarajan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=for-the-badge&logo=linkedin&logoColor=white" alt="leelakrishna463"/>
  </a>
+ <a href="https://www.codechef.com/users/lee_463" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-2b3137?style=for-the-badge&logo=codechef&logoColor=white" alt="leelakrishna463"/>
+ </a>
 <br />
 
 
